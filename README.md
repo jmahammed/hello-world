@@ -1,3 +1,3 @@
 # hello-world
-Just another repository
-I would like to learn automation using python
+print ("just another repository")
+print ("I would like to learn automation using python")
